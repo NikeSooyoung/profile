@@ -1,57 +1,57 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Sooyoung Jang",
+    "label": "Commercial Analytic Manager in Nike",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "sooyoung.jang@nike.com",
+    "phone": "82-10-9105-5773",
+    "website": "https://nikesooyoung.github.io/profile/",
+    "summary": "Goal-oriented and team-focused analytic manager with 15+ years of experience and success in international sports industry.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "08862",
+      "city": "Seoul",
+      "countryCode": "Korea",
+      "region": "KwanakGu"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "NikeSooyoung",
+        "url": "https://github.com/NikeSooyoung"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Sooyoung Jang",
+        "url": "https://www.linkedin.com/in/%EC%88%98%EC%98%81-%EC%9E%A5-8b1370179/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "Tableau",
+        "username": "Sooyoung Jang",
+        "url": "https://public.tableau.com/app/profile/sooyoung.jang#!/?newProfile=&activeTab=0"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hubert_jang",
+        "url": "https://www.instagram.com/hubert_jang/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data science",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Visualization",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "UX/UI Design",
       "keywords": [
       ]
     }
@@ -61,12 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Tableau",
+        "SQL",
+        "SAP",
+        "HTML",
+        "CSS",
+        "Java script"
       ]
     },
     {
@@ -74,20 +74,18 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Figma",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "CATHOLIC UNIVERSITY OF KOREA",
+      "area": "Bachelor's degree in English Language & Culture",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2005-03",
+      "endDate": "2007-02",
       "gpa": "",
       "courses": [
       ]
@@ -95,27 +93,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "NIKE Korea",
+      "position": "Commercial Analytic Manager",
+      "website": "www.nike.com",
+      "startDate": "2018-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Drive sales increases through read and adapt analytics and measurement for Nike Korea",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Delivered insights to optimize the market and Nike consumer through variety analytic project",
+        "Supported data enablement and standard reporting portal creation"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "NIKE Korea",
+      "position": "NFS Planning Manager",
+      "website": "www.nike.com",
+      "startDate": "2012-09-12",
+      "endDate": "2018-02-29",
+      "summary": "Developed and executed financial plans and strategies to support Nike Factory Stores",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Led the continuous business growth with keen business planning strategy",
+        "Led grand openning and expasion plan for 15 doors with store clustering plan"
       ]
     }
   ],
@@ -148,16 +146,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Global JDI",
+      "date": "2021, FY20",
+      "awarder": "COVID-19 Outbreak Tracker",
+      "summary": "Providing proactive action plan in difficulty market situation through immediate analytic tool creation."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "APLA JDI",
+      "date": "2021, FY20",
+      "awarder": "DSM Manager",
+      "summary": "Maintain optimal marketplace inventory level with right action plan in COVID-19."
     }
   ],
   "references": [
